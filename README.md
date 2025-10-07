@@ -15,9 +15,9 @@
 + `pip install urllib3 pystyle rich requests pycryptodome latest_user_agents`
 + `curl https://raw.githubusercontent.com/ScadeBlock/winterBot/refs/heads/main/uview.obf.py -o uview.obf.py`
 + `python uview.obf.py`
-## Model `v11c` (`Nightmare-v1`)
+## Model `v11c-pro` (`Nightmare-v1`)
 + Open github, choose a project run `Github Codespace`
 + Read `uview.run.txt` file for commands!
-## Model `v3z8u` (`River-v1`)
+## Model `v3z8u-turbo` (`River-v1`)
 + Link [v3z8u](https://colab.research.google.com/drive/1_GsHKuHA9Ju7qTDLR-cl1ZWFIZG1Ul-0?usp=sharing)
 + Basically WinterBot on webservices
