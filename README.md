@@ -11,19 +11,8 @@
 + Steps 2 : Click `Web Preview -> Change port -> 6080 -> Change & Preview`
 
 # Model v11c
-+ Open github, choose a project
-+ Download chrome:
-```
-mkdir ~/setup-chrome && cd ~/setup-chrome
++ Open github, choose a project run `Github Codespace`
 
-# Install Google Chrome
-wget https://dl.google.com/linux/direct/google-chrome-stable_current_amd64.deb
-sudo apt install ./google-chrome-stable_current_amd64.deb -y
-
-# Install Chromedriver
-CHROME_MAJOR_VERSION=$(google-chrome-stable --version | ruby -e 'puts $stdin.read[/\d+/]')
-CHROMEDRIVER_VERSION=$(curl -sS https://chromedriver.storage.googleapis.com/LATEST_RELEASE_${CHROME_MAJOR_VERSION})
-wget https://chromedriver.storage.googleapis.com/${CHROMEDRIVER_VERSION}/chromedriver_linux64.zip
-unzip chromedriver_linux64.zip
-sudo mv chromedriver /usr/local/bin/
-```
+# Model v3z8u
++ Link [v3z8u](https://colab.research.google.com/drive/1_GsHKuHA9Ju7qTDLR-cl1ZWFIZG1Ul-0?usp=sharing)
++ Basically WinterBot on webservices
