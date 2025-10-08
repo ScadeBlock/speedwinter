@@ -21,3 +21,6 @@
 ## Model `v3z8u-turbo` (`River-v1`) (No-limit)
 + Link [v3z8u](https://colab.research.google.com/drive/1_GsHKuHA9Ju7qTDLR-cl1ZWFIZG1Ul-0?usp=sharing)
 + Basically WinterBot on webservices
+
+## Model `v5u7` 
++ Link [v5u7](https://deepnote.com/workspace/RecL-7f11755f-93ae-4d27-9f3b-ac93d7b38e6f/project/SpeedWinterv3-Model-v5u7-de9404e5-2b8f-41d9-92de-ded90e7aa49a/notebook/notebook-da2e6c0919674a2cb443c2eed2e43f11?utm_source=share-modal&utm_medium=product-shared-content&utm_campaign=notebook&utm_content=de9404e5-2b8f-41d9-92de-ded90e7aa49a)
