@@ -28,9 +28,10 @@
 ## Model `v9` (`Nightmare-v2.5`)
 + Link [v9](https://codeanywhere.com/)
 ## Benchmark
-| *            | Nightmare Pro V2 (id=`V11C-PRO`) | River V1 Turbo (id=`v3z8u-turbo`) | River V1 (id=`v5u7`) | Tuikycuc V1 (id=`v8a`) |
-|--------------|----------------------------------|-----------------------------------|----------------------|------------------------|
-| CPU          | 4cores                           | 2cores                            | 2cores , 4cores max  | 2cores                 |
-| RAM          | 16gb                             | 12gb                              | 5gb                  | 8gb                    |
-| Ultimize-v10 | No                               | Yes                               | No                   | No                     |
-| OVERAL       | 4.5 power                        | 3.75 power                        | 3 power, max 3.5     | 3.25                   |
+| *                  | Nightmare Pro V2 (id=`V11C-PRO`) | Nightmare V2.5 (id=`V9`) | River V1 Turbo (id=`v3z8u-turbo`) | River V1 (id=`v5u7`) | River V1.5-Platinum (id=`v8a`) |
+|--------------------|----------------------------------|--------------------------|-----------------------------------|----------------------|--------------------------------|
+| CPU                | 4cores                           | 4cores                   | 2cores                            | 2cores , 4cores max  | 2cores                         |
+| RAM                | 16gb                             | 8gb                      | 12gb                              | 5gb                  | 8gb                            |
+| Ultimize-v10       | ❌                                | ❌                        | ✔️                                 | ✔️                    | ❌                              |
+| Infinite Dimension | ❌                                | ❌                        | ❌                                 | ✔️                    | ❌                              |
+| OVERAL             | 4.5 power                        | 4.25 power               | 3.75 power                        | 3 power, max 3.5     | 3.25 power|
