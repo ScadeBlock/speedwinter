@@ -39,6 +39,10 @@
 + Steps 1 : Run `docker run -p 6080:80 dorowu/ubuntu-desktop-lxde-vnc`
 + Steps 2 : Click `Web Preview -> Change port -> 6080 -> Change & Preview`
 ### Steps
+#### New
++ `curl https://raw.githubusercontent.com/ScadeBlock/winterBot/refs/heads/main/plat_run.sh -o plat_run.sh`
++ `bash bplat_run.sh`
+#### Old
 + `sudo apt update`
 + `sudo apt install python3-pip`
 + `pip install urllib3 pystyle rich requests pycryptodome latest_user_agents`
