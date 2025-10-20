@@ -35,6 +35,14 @@
 ## Description
 + Link : [v24arc](https://www.kaggle.com/code/dathoang2300/river-v1-7)
 ---
+## `River v1-lite`
+> Model `v9a6-lite`
+### Description
+> Using `binder`
++ Download `.ipynb` file from `River v1 turbo - Google Colab`
++ Upload it into `binder` and run
++ Link : [v9a6-lite](https://mybinder.org/v2/gh/jupyterlab/jupyterlab-demo/HEAD?urlpath=lab/tree/demo)
+---
 ## `River v1.5-Platinum` 
 > Model `v8a` 
 ### Limits  
