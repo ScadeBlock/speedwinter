@@ -29,6 +29,12 @@
 ### Description
 + Link [v5u7](https://deepnote.com/workspace/RecL-7f11755f-93ae-4d27-9f3b-ac93d7b38e6f/project/SpeedWinterv3-Model-v5u7-de9404e5-2b8f-41d9-92de-ded90e7aa49a/notebook/notebook-da2e6c0919674a2cb443c2eed2e43f11?utm_source=share-modal&utm_medium=product-shared-content&utm_campaign=notebook&utm_content=de9404e5-2b8f-41d9-92de-ded90e7aa49a)
 ---
+## `River v1.7`
+> Model `v24arc`
+### Limits: Require phone/face activation - 1account/1person
+## Description
++ Link : [v24arc](https://www.kaggle.com/code/dathoang2300/river-v1-7)
+---
 ## `River v1.5-Platinum` 
 > Model `v8a` 
 ### Limits  
@@ -51,12 +57,3 @@
 + Total runtime : `20hours/account`
 ### Description
 + Link [v9](https://codeanywhere.com/)
----
-## Benchmark
-| *                  | Nightmare Pro V2 (id=`V11C-PRO`) | Nightmare V2.5 (id=`V9`) | River V1 Turbo (id=`v3z8u-turbo`) | River V1 (id=`v5u7`) | River V1.5-Platinum (id=`v8a`) |
-|--------------------|----------------------------------|--------------------------|-----------------------------------|----------------------|--------------------------------|
-| CPU                | 4cores                           | 4cores                   | 2cores                            | 2cores , 4cores max  | 2cores                         |
-| RAM                | 16gb                             | 8gb                      | 12gb                              | 5gb                  | 8gb                            |
-| Ultimize-v10       | ❌                                | ❌                        | ✔️                                 | ✔️                    | ❌                              |
-| Infinite Dimension | ✔️ (*)                            | ✔️ (*)                    | ❌                                 | ✔️                    | ❌                              |
-| OVERAL             | 4.5 power                        | 4.25 power               | 3.75 power                        | 3 power, max 3.5     | 3.25                           |
