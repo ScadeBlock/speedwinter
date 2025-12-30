@@ -3,12 +3,19 @@
 # Gen
 ## Winter 8 Elite Gen 5
 ### Setup
++ With `sudo`
 
 ```
-sudo apt update
 sudo apt install python3-pip
 pip install requests colorama
-
+curl https://raw.githubusercontent.com/ScadeBlock/speedwinter/refs/heads/main/zfkr.py -o zfkr.py
+python zfkr.py
+```
++ With `pkg`
+```
+pkg update && pkg upgrade -y
+pkg install python -y
+pip install requests colorama
 curl https://raw.githubusercontent.com/ScadeBlock/speedwinter/refs/heads/main/zfkr.py -o zfkr.py
 python zfkr.py
 ```
