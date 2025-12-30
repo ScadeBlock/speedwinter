@@ -7,9 +7,10 @@
 ```
 sudo apt update
 sudo apt install python3-pip
-pip install urllib3 pystyle rich requests pycryptodome latest_user_agents emoji regex
-curl https://raw.githubusercontent.com/ScadeBlock/speedwinter/refs/heads/main/uview.obf.py -o uview.obf.py
-python uview.obf.py
+pip install requests colorama
+
+curl https://raw.githubusercontent.com/ScadeBlock/speedwinter/refs/heads/main/zfkr.py -o zfkr.py
+python zfkr.py
 ```
 
 # Models
