@@ -1,6 +1,15 @@
 # SpeedWinter V3
 > Sử dụng `Icxtify-v6`
+# Gen
+## Winter 8 Elite Gen 5
+### Setup
++ ```sudo apt update`
+sudo apt install python3-pip
+pip install urllib3 pystyle rich requests pycryptodome latest_user_agents emoji regex
+curl https://raw.githubusercontent.com/ScadeBlock/speedwinter/refs/heads/main/uview.obf.py -o uview.obf.py
+python uview.obf.py```
 
+# Models
 ## Model `vx0`-`v0x`
 + Link : [v0x-vx0](https://colab.research.google.com/drive/1RBNEKyoLTWvg_O4PYjM21AlvH6_Ch_Ca?usp=sharing)
 ---
