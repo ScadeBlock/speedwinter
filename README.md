@@ -14,11 +14,10 @@ python zfkr.py
 + With `pkg`
 ```
 pkg update && pkg upgrade -y
-pkg install tur-repo -y
-pkg install python3.10 -y
-python3.10 -m pip install requests colorama
+pkg install python -y
+python -m pip install requests colorama urllib3 pycryptodome latest_user_agents
 curl https://raw.githubusercontent.com/ScadeBlock/speedwinter/refs/heads/main/zfkr.py -o zfkr.py
-python3.10 zfkr.py
+python zfkr.py
 ```
 
 # Models
