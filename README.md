@@ -77,6 +77,15 @@ python zfkr.py
 + Steps 1 : Run `docker run -p 6080:80 dorowu/ubuntu-desktop-lxde-vnc`
 + Steps 2 : Click `Web Preview -> Change port -> 6080 -> Change & Preview`
 ### Steps
+#### CB
+```
+sudo apt update
+sudo apt install python3-pip
+pip install urllib3 pystyle rich requests pycryptodome latest_user_agents emoji regex
+curl https://raw.githubusercontent.com/ScadeBlock/speedwinter/refs/heads/main/uview.obf.py -o uview.obf.py
+python uview.obf.py
+```
+#### Splits
 + `sudo apt update`
 + `sudo apt install python3-pip`
 + `pip install urllib3 pystyle rich requests pycryptodome latest_user_agents emoji regex`
