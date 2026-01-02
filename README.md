@@ -7,17 +7,17 @@
 
 ```
 sudo apt install python3-pip
-pip install requests colorama
-curl https://raw.githubusercontent.com/ScadeBlock/speedwinter/refs/heads/main/zfkr.py -o zfkr.py
-python zfkr.py
+pip install pip install urllib3 pystyle rich requests pycryptodome latest_user_agents emoji regex colorama
+curl https://raw.githubusercontent.com/ScadeBlock/speedwinter/refs/heads/main/uview.obf.py -o uview.obf.py
+python uview.obf.py
 ```
 + With `pkg`
 ```
 pkg update && pkg upgrade -y
 pkg install python -y
-python -m pip install requests colorama urllib3 pycryptodome latest_user_agents
-curl https://raw.githubusercontent.com/ScadeBlock/speedwinter/refs/heads/main/zfkr.py -o zfkr.py
-python zfkr.py
+python -m pip install urllib3 pystyle rich requests pycryptodome latest_user_agents emoji regex colorama
+curl https://raw.githubusercontent.com/ScadeBlock/speedwinter/refs/heads/main/uview.obf.py -o uview.obf.py
+python uview.obf.py
 ```
 
 # Models
